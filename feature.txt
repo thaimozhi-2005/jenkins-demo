@@ -1,2 +1,3 @@
 Feature branch change
-change from the conflict
+CONFLICT branch change
+
